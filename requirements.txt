@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+regex
+nltk
+Sastrawi
+keras
+gensim
