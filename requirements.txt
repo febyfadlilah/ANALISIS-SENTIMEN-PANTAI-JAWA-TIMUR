@@ -6,3 +6,4 @@ nltk
 Sastrawi
 keras
 gensim
+tensorflow
